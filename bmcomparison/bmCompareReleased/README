@@ -1,0 +1,30 @@
+Implementation for comparison measures proposed in the following paper:
+
+J. Chan, X. Nguyen, W. Liu, C. Leckie, J. Bailey, K. Ramamohanarao and J. Pei.
+"Structure-aware Distance Measures for Comparing Clusterings in Graphs".
+In Proceedings of the 18th Pacific-Asia Conference on Knowledge Discovery and Data Mining, May 2014.
+
+Main files are bmUnweighteRecon.m and bmWeightedRecon.m.
+bmUnweightedRecon.m contains the reconstruction distances for unweighted graphs.
+bmWeightedRecon.m contains the reconstruction distances for weighted graphs.
+
+-------------------------------------------------------------------------
+
+Copyright (C) 2014 Jeffrey Chan 
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+-----------------------------------------------------------------------
+
+
