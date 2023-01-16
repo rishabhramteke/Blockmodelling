@@ -1,3 +1,5 @@
+# Improving Single and Multi-View Blockmodelling by Algebraic Simplification
+
 This contains the work done as a part of my 2019 summer internship at Monash and University of Melbourne under the guidance of [Prof. Peter Stuckey](https://scholar.google.com/citations?user=tvFekxwAAAAJ&hl=en) and [Prof. Jefrey Chan](https://scholar.google.com.au/citations?user=I9mDeiYAAAAJ&hl=en)
 
 Abstract:
