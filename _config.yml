@@ -1,0 +1,7 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+title: Improving Single and Multi-View Blockmodelling by Algebraic Simplification
+description: Rishabh Ramteke, Peter Stuckey, Jeffrey Chan, Kotagiri Rao, James Bailey, Christopher Leckie || IJCNN 2020 IEEE WCCI, Glasgow (UK)
+show_downloads: true
